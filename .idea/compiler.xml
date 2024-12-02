@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="uz.davrbank.user" target="1.8" />
+      <module name="uz.davrbank.user.main" target="1.8" />
+      <module name="uz.davrbank.user.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

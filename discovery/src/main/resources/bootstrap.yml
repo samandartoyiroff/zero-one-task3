@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: discovery
+  cloud:
+    config:
+      uri: http://localhost:8888
+      password: zero-one
+      username: user
+server:
+  port: 8761
